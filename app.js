@@ -1,1 +1,1 @@
-document.getElementById('demo').innerHTML = 'ima beat yo ass';
+document.getElementById('demo').innerHTML = 'git is fun';
